@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlanningTrip</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_photo__search">Photo_Search</string>
+    <string name="title_activity_photo_display">PhotoDisplay</string>
+    <string name="title_activity_location">Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_display">Map</string>
+</resources>
